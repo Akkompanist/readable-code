@@ -1,0 +1,15 @@
+Order Receipt:
+1. Apple - $9.99 x 2
+Total: $19.98
+
+Order Receipt:
+1. Bannana - $9.99 x 2
+2. Lemon Juice - $7.99 x 2
+3. Pancakes - $11.99 x 100
+Total: $1234.96
+
+Order Receipt:
+1. a - $20 x 10
+2. Bannana - $9.99 x 5
+Total: $249.95
+
